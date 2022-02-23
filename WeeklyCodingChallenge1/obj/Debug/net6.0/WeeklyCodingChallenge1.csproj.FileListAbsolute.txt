@@ -1,0 +1,15 @@
+C:\Users\roder\Revature\PO-SamanthaR\WeeklyCodingChallenge1\bin\Debug\net6.0\WeeklyCodingChallenge1.exe
+C:\Users\roder\Revature\PO-SamanthaR\WeeklyCodingChallenge1\bin\Debug\net6.0\WeeklyCodingChallenge1.deps.json
+C:\Users\roder\Revature\PO-SamanthaR\WeeklyCodingChallenge1\bin\Debug\net6.0\WeeklyCodingChallenge1.runtimeconfig.json
+C:\Users\roder\Revature\PO-SamanthaR\WeeklyCodingChallenge1\bin\Debug\net6.0\WeeklyCodingChallenge1.dll
+C:\Users\roder\Revature\PO-SamanthaR\WeeklyCodingChallenge1\bin\Debug\net6.0\ref\WeeklyCodingChallenge1.dll
+C:\Users\roder\Revature\PO-SamanthaR\WeeklyCodingChallenge1\bin\Debug\net6.0\WeeklyCodingChallenge1.pdb
+C:\Users\roder\Revature\PO-SamanthaR\WeeklyCodingChallenge1\obj\Debug\net6.0\WeeklyCodingChallenge1.csproj.AssemblyReference.cache
+C:\Users\roder\Revature\PO-SamanthaR\WeeklyCodingChallenge1\obj\Debug\net6.0\WeeklyCodingChallenge1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roder\Revature\PO-SamanthaR\WeeklyCodingChallenge1\obj\Debug\net6.0\WeeklyCodingChallenge1.AssemblyInfoInputs.cache
+C:\Users\roder\Revature\PO-SamanthaR\WeeklyCodingChallenge1\obj\Debug\net6.0\WeeklyCodingChallenge1.AssemblyInfo.cs
+C:\Users\roder\Revature\PO-SamanthaR\WeeklyCodingChallenge1\obj\Debug\net6.0\WeeklyCodingChallenge1.csproj.CoreCompileInputs.cache
+C:\Users\roder\Revature\PO-SamanthaR\WeeklyCodingChallenge1\obj\Debug\net6.0\WeeklyCodingChallenge1.dll
+C:\Users\roder\Revature\PO-SamanthaR\WeeklyCodingChallenge1\obj\Debug\net6.0\ref\WeeklyCodingChallenge1.dll
+C:\Users\roder\Revature\PO-SamanthaR\WeeklyCodingChallenge1\obj\Debug\net6.0\WeeklyCodingChallenge1.pdb
+C:\Users\roder\Revature\PO-SamanthaR\WeeklyCodingChallenge1\obj\Debug\net6.0\WeeklyCodingChallenge1.genruntimeconfig.cache

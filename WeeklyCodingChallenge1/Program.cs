@@ -14,24 +14,30 @@ namespace weeklyCodingChallenge1
             string? str1 = "";
             int input = 0;
             int output = 0;
-            Console.WriteLine("Enter a number between 1 and 9");
+            Console.WriteLine("Enter a 9-digit integer.");
             do
             {
                 str1 = Console.ReadLine();
                 try
                 {
                     input = int.Parse(str1);
+                    
                 }
                 catch(Exception)
                 {
-                    Console.WriteLine("Please enter a valid integer");
+                    
+                    Console.Write("That is not an integer. ");
                 }
-                if(input < 1 || input > 9)
-                {
-                    Console.WriteLine("That number is out of range. Please enter a number between 1 and 9");
-                }
+                         
 
-            } while (str1 != null);
+            } while (output == 0);
+            Console.WriteLine("outside of the do-while loop");
+        }
+
+        public static int PandigitalOutput(int c)
+        {
+
+            return 0;
         }
 
     }
