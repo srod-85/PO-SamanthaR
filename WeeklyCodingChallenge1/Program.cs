@@ -11,33 +11,31 @@ namespace weeklyCodingChallenge1
     {
         public static void Main(string[] args)
         {
-            string? str1 = "";
-            int input = 0;
             int output = 0;
-            Console.WriteLine("Enter a 9-digit integer.");
-            do
+
+            for (int i = 0; i < 10000; i++)
             {
-                str1 = Console.ReadLine();
-                try
+                StringBuilder stringBuilder = new StringBuilder();
+
+                for (int j = 1; stringBuilder.Length < 9; j++)
                 {
-                    input = int.Parse(str1);
-                    
+                    stringBuilder.Append(i * j);
                 }
-                catch(Exception)
+
+                if (stringBuilder.Length == 9)
                 {
-                    
-                    Console.Write("That is not an integer. ");
+                    HashSet<char> newHash = new HashSet<char>();
+
+                    foreach (char item in stringBuilder.ToString().ToCharArray())
+                        newHash.Add(item);
+
+                    if (newHash.Count == 9 && Convert.ToInt32(stringBuilder.ToString()) > output)
+                        output = Convert.ToInt32(stringBuilder.ToString());
                 }
-                         
+            }
 
-            } while (output == 0);
-            Console.WriteLine("outside of the do-while loop");
-        }
-
-        public static int PandigitalOutput(int c)
-        {
-
-            return 0;
+            Console.WriteLine($"The largest pandigital is: {output}");
+            Console.ReadKey();
         }
 
     }
