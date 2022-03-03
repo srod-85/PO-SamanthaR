@@ -1,0 +1,15 @@
+C:\Users\roder\Revature\PO-SamanthaR\TriangeNumbers\bin\Debug\net6.0\TriangeNumbers.exe
+C:\Users\roder\Revature\PO-SamanthaR\TriangeNumbers\bin\Debug\net6.0\TriangeNumbers.deps.json
+C:\Users\roder\Revature\PO-SamanthaR\TriangeNumbers\bin\Debug\net6.0\TriangeNumbers.runtimeconfig.json
+C:\Users\roder\Revature\PO-SamanthaR\TriangeNumbers\bin\Debug\net6.0\TriangeNumbers.dll
+C:\Users\roder\Revature\PO-SamanthaR\TriangeNumbers\bin\Debug\net6.0\ref\TriangeNumbers.dll
+C:\Users\roder\Revature\PO-SamanthaR\TriangeNumbers\bin\Debug\net6.0\TriangeNumbers.pdb
+C:\Users\roder\Revature\PO-SamanthaR\TriangeNumbers\obj\Debug\net6.0\TriangeNumbers.csproj.AssemblyReference.cache
+C:\Users\roder\Revature\PO-SamanthaR\TriangeNumbers\obj\Debug\net6.0\TriangeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roder\Revature\PO-SamanthaR\TriangeNumbers\obj\Debug\net6.0\TriangeNumbers.AssemblyInfoInputs.cache
+C:\Users\roder\Revature\PO-SamanthaR\TriangeNumbers\obj\Debug\net6.0\TriangeNumbers.AssemblyInfo.cs
+C:\Users\roder\Revature\PO-SamanthaR\TriangeNumbers\obj\Debug\net6.0\TriangeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\roder\Revature\PO-SamanthaR\TriangeNumbers\obj\Debug\net6.0\TriangeNumbers.dll
+C:\Users\roder\Revature\PO-SamanthaR\TriangeNumbers\obj\Debug\net6.0\ref\TriangeNumbers.dll
+C:\Users\roder\Revature\PO-SamanthaR\TriangeNumbers\obj\Debug\net6.0\TriangeNumbers.pdb
+C:\Users\roder\Revature\PO-SamanthaR\TriangeNumbers\obj\Debug\net6.0\TriangeNumbers.genruntimeconfig.cache
